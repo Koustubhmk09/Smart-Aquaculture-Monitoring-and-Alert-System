@@ -61,13 +61,7 @@ Improves water quality management for healthier fish growth.
 
 📊 Dashboard Preview
 
-https://github.com/koustubhk09/Smart_Aquaculture-Monitoring-and-alert-system-/blob/main/Dashboard.png
-
-🎥 Project Demo
-
-You can watch the demo video here:
-▶️ Smart Aquaculture Monitoring Demo:
-https://github.com/koustubhk09/Smart_Aquaculture-Monitoring-and-alert-system-/demo.mp4
+https://github.com/Koustubhmk09/Smart-Aquaculture-Monitoring-and-Alert-System/blob/main/Dashboard.png
 
 
 -------------------------------------------------------------------------------------------------------------------------
